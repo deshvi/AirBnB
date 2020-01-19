@@ -4,7 +4,9 @@ In this project we will try to explore and perform analytics on AirBnB data, yea
 
 Getting Started
 
-All files required to run this project are saved in “codeDS” folder in vd-ds/airbnb  repository. 
+All files required to run this project are saved in “codeDS” folder in vd-ds/airbnb  repository.
+The blog for this work has been posted on medium. Here's the link for it.
+https://medium.com/@vinaydeshpande_24482/data-trend-analysis-of-seattle-airbnb-data-8101abb7f053
 
 Prerequisites & installation
 
