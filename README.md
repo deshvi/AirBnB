@@ -5,6 +5,13 @@ In this project we will try to explore and perform analytics on AirBnB data, yea
 Getting Started
 
 All files required to run this project are saved in vd-ds/airbnb  repository.
+
+"indexNotebook.ipynb" python notebook may be served as reference document for other ipynb notebooks, individual notebooks serve specific task as explained in this notebook. All future work would be in one consolidated notebook.
+
+Blog Post for fulfilment of this assignment is posted at - <https://medium.com/@vinaydeshpande_24482/data-trend-analysis-of-seattle-airbnb-data-8101abb7f053>
+
+The objective of keeping separate notebooks, ipynb, due to the fact that this is my first published Data Science Assignment.
+
 The blog for this work has been posted on medium. Here's the link for it.
 https://medium.com/@vinaydeshpande_24482/data-trend-analysis-of-seattle-airbnb-data-8101abb7f053
 
