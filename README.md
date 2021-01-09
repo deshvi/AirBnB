@@ -12,7 +12,7 @@ All files required to run this project are saved in deshvi/airbnb repository.
 
 The objective of keeping separate notebooks is because this is my first published Data Science Assignment.
 
-## Prerequisites & installation
+## Prerequisites & Installation
 
 Installation of conda is desired for ease of use of libraries. More information for installation of conda and repositories can be found [here](https://docs.conda.io/en/latest/).  Built on Python 3.7.4. IPython 7.9.0 is used explicitly to run the code for simplicity and ease of use.
 
