@@ -4,7 +4,7 @@ In this project we will try to explore and perform analytics on AirBnB data (Sea
 
 ## Getting Started
 
-All files required to run this project are saved in [vd-ds/airbnb](https://github.com/deshvi/AirBnB) repository.
+All files required to run this project are saved in deshvi/airbnb repository.
 
 [indexNotebook](https://github.com/deshvi/AirBnB/blob/master/indexNotebook.ipynb) maybe served as the reference document for other ipynb notebooks, individual notebooks serve specific tasks as explained in this notebook. All future work would be in one consolidated notebook.
 
